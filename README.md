@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development, developers productivity, high performing teams, leadership and organization!
 - 🌱 I’m currently learning frontend development!
 - 💞️ I’m looking to collaborate on projects that have a social impact!
-- 📫 How to reach me @tech.alice
+- 📫 How to reach me on [Linkedin](https://www.linkedin.com/in/aliceborner/)
 
 <!---
 aliceborner/aliceborner is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
