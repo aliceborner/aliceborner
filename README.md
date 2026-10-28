@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @aliceborner
 - 👀 I’m interested in web development, developers productivity, high performing teams, leadership and organization!
-- 🌱 I’m currently learning frontend development!
 - 💞️ I’m looking to collaborate on projects that have a social impact!
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/aliceborner/)
 
